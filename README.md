@@ -113,6 +113,10 @@ The packaged app also supports a headless check:
 - [Deno](https://deno.com): JavaScript runtime used to pass YouTube's checks (MIT)
 - [curl_cffi](https://github.com/lexiforest/curl_cffi), [Pillow](https://python-pillow.org), [websockets](https://github.com/python-websockets/websockets), [PyInstaller](https://pyinstaller.org)
 
+## License
+
+This project is released under the [MIT License](LICENSE). The bundled tools keep their own licenses (see Credits).
+
 ## Disclaimer
 
 Only download content you have the right to download. Respect copyright and each website's terms of service.
