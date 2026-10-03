@@ -70,7 +70,7 @@ Other options under **Login**: a Firefox login (read directly), or a `cookies.tx
 Requirements: Windows, Python 3.12+ and an internet connection.
 
 ```powershell
-git clone https://github.com/<your-username>/video-downloader.git
+git clone https://github.com/omarafache7-ux/video-downloader.git
 cd video-downloader
 powershell -ExecutionPolicy Bypass -File build.ps1
 ```
